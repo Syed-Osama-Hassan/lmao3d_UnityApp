@@ -5,4 +5,4 @@ Pre-requisites:
  -Kinect Windows SDK 2.0
  -OpenCV 4.4.0
 NTKinect: A class for easily use Kinect v2 functionlities in C++ programming language. Kinect V2 is initialized and available after declaring variable of this class.
-Please refer to the LMAAO 3D 60% directory for 60% evaluation.
+Please refer to the "LMAO 3D 60%" directory for 60% evaluation.
